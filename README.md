@@ -1,8 +1,8 @@
 # React-Motion
 
-# Atividade Prática: Animações com Framer Motion [cite: 1]
+# Atividade Prática: Animações com Framer Motion 
 
-Este projeto demonstra o uso da biblioteca Framer Motion para transformar interfaces estáticas em dinâmicas. [cite: 3]
+Este projeto demonstra o uso da biblioteca Framer Motion para transformar interfaces estáticas em dinâmicas.
 
 ## ✅ Requisitos Implementados
 
